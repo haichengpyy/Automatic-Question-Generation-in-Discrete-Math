@@ -7,4 +7,4 @@ Presented solid evidence for the feasibility of our generator, and affirmed that
 
 If you are interested in this project, you could downloads all the files and create a python project to run it.
 
-This project is Final Year Project by YANG Yicheng, WANG Xinyu, YU Haoming, LI Zhiyuan.
+This project is Final Year Project by YANG Yicheng, WANG Xinyu, YU Haoming, supervised by Dr. LI Zhiyuan.
